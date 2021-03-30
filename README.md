@@ -28,7 +28,7 @@
 
 #### Software
 <img align="left" alt="Tableau" width="50px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
-<img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Microsoft_Office_Excel_%282013%E2%80%932018%29.svg">
+<img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg">
 <img align="left" alt="PowerBI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg">
 </br></br>
 
