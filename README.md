@@ -1,12 +1,11 @@
 # Hi there, <img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="30"/> I'm Patrick. Welcome to my GitHub profile!
 <img align='right' src='computer-cat.gif'>
 
-- 🔭 I’m currently working on a personal project
+- 🔭 I’m currently taking the Google Data Analytics Professional Certificate Program
 - 🌱 I’m currently learning Data Analytics and Statistics
 - 📫 How to reach me: patrickchao9@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love listening to rock/metal music! :metal: :notes:
-- 💬 Ask me about my favorite band :laughing:
+- ⚡ Fun fact: I love listening to rock/metal music :metal: :notes:
 
 <p>Portfolio Website: https://patchao.com</p>
 
