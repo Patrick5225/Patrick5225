@@ -6,7 +6,8 @@
 - 📫 How to reach me: patrickchao9@gmail.com
 - ⚡ Fun fact: I love listening to rock/metal music :metal: :notes:
 
-<p>Portfolio Website: https://patchao.com</p>
+<p><b>LinkedIn:</b> https://www.linkedin.com/in/pchaoanalyst/</br>
+<b>Portfolio Website:</b> https://patchao.com</p>
 
 ### Tools and Technologies that I work with:</br>
 
