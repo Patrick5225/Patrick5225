@@ -27,7 +27,7 @@
 
 #### Software
 <img align="left" alt="Tableau" width="50px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
-<img align="left" alt="Excel" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Excel_2013_logo.svg">
+<img align="left" alt="Excel" width="50px" src="https://user-images.githubusercontent.com/32801046/115105870-766ec580-9f16-11eb-922d-9154ab610df0.png">
 <img align="left" alt="PowerBI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg">
 </br></br>
 
@@ -35,6 +35,7 @@
 <img align="left" alt="Jupyter" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
 <img align="left" alt="RStudio" width="50px" src="https://i0.wp.com/static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/583ccafcbebafbc5c11fa6ec/1480379239088/RStudio-Ball.png?zoom=1.25&w=578&ssl=1">
 <img align="left" alt="VSCode" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+
 
 <!--
 **Patrick5225/Patrick5225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
