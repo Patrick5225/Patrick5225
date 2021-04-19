@@ -13,7 +13,7 @@
 
 #### Languages
 <img align="left" alt="MySQL" width="70px" height="50px" src="https://user-images.githubusercontent.com/32801046/115215516-6ee72200-a0b8-11eb-8b8d-4c02f6491651.png">
-<img align="left" alt="Python" width="50px" height="50px" src="!https://user-images.githubusercontent.com/32801046/115215625-8c1bf080-a0b8-11eb-88be-b5f7d21332c6.png">
+<img align="left" alt="Python" width="50px" height="50px" src="https://user-images.githubusercontent.com/32801046/115215625-8c1bf080-a0b8-11eb-88be-b5f7d21332c6.png">
 <img align="left" alt="R" width="50px" src="https://user-images.githubusercontent.com/32801046/115215676-9938df80-a0b8-11eb-96ab-18ecc295d5cc.png">
 </br></br>
 
