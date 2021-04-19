@@ -12,9 +12,9 @@
 ### Tools and Technologies that I work with:</br>
 
 #### Languages
-<img align="left" alt="MySQL" width="70px" height="50px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png">
-<img align="left" alt="Python" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img align="left" alt="R" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
+<img align="left" alt="MySQL" width="70px" height="50px" src="https://user-images.githubusercontent.com/32801046/115215516-6ee72200-a0b8-11eb-8b8d-4c02f6491651.png">
+<img align="left" alt="Python" width="50px" height="50px" src="!https://user-images.githubusercontent.com/32801046/115215625-8c1bf080-a0b8-11eb-88be-b5f7d21332c6.png">
+<img align="left" alt="R" width="50px" src="https://user-images.githubusercontent.com/32801046/115215676-9938df80-a0b8-11eb-96ab-18ecc295d5cc.png">
 </br></br>
 
 #### Libraries
@@ -37,7 +37,8 @@
 <img align="left" alt="VSCode" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
 
-<!--
+<!--![python](https://user-images.githubusercontent.com/32801046/115215597-83c3b580-a0b8-11eb-9fb4-a4d4d363309f.png)
+
 **Patrick5225/Patrick5225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
