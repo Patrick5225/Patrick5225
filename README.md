@@ -1,5 +1,4 @@
 # Hi there, <img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="30"/> I'm Patrick. Welcome to my GitHub profile!
-<img align='right' src='computer-cat.gif'>
 
 - 🔭 I’m currently working on Data Analytics projects
 - 🌱 I’m currently learning Data Analytics and Statistics
