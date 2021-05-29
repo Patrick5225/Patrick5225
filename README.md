@@ -27,7 +27,8 @@
 #### Software
 <img align="left" alt="Tableau" width="50px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
 <img align="left" alt="Excel" width="50px" src="https://user-images.githubusercontent.com/32801046/115105870-766ec580-9f16-11eb-922d-9154ab610df0.png">
-<img align="left" alt="PowerBI" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg">
+<img align="left" alt="PowerBI" width="50px" src="https://user-images.githubusercontent.com/32801046/120054392-8fbe6380-bfe4-11eb-913e-44fb384619ad.png">
+
 </br></br>
 
 #### Environments
