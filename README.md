@@ -1,9 +1,12 @@
 # Hi there, <img src="https://emojis.slackmojis.com/emojis/images/1584726375/8272/blob-cool.gif?1584726375" width="30"/> I'm Patrick. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on Data Analytics projects
-- 🌱 I’m currently learning Data Analytics and Statistics
+- 💼 Currently working as a Data Analyst
+- 🔭 Also currently working on personal Data Analytics projects
+- 🌱 Learning Data Analytics and Statistics
 - 📫 How to reach me: patrickchao9@gmail.com
 - ⚡ Fun fact: I love listening to rock/metal music :metal: :notes:
+
+If you have a project you would like to work with me or just want to say hi, feel free to email me or add me as a connection on LinkedIn.
 
 <p><b>LinkedIn:</b> https://www.linkedin.com/in/pchaoanalyst/</br>
 <b>Portfolio Website:</b> https://patchao.com</p>
