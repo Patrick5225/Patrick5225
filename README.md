@@ -6,7 +6,7 @@
 - 📫 How to reach me: patrickchao9@gmail.com
 - ⚡ Fun fact: I love listening to rock/metal music :metal: :notes:
 
-If you have a project you would like to work with me or just want to say hi, feel free to email me or add me as a connection on LinkedIn.
+If you have a project you would like to work with me or just want to say hi, feel free to email me or add me as a connection on [LinkedIn](https://www.linkedin.com/in/pchaoanalyst/).
 
 <p><b>LinkedIn:</b> https://www.linkedin.com/in/pchaoanalyst/</br>
 <b>Portfolio Website:</b> https://patchao.com</p>
