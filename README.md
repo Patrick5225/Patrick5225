@@ -37,7 +37,8 @@ If you have a project you would like to work with me or just want to say hi, fee
 #### Environments
 <img align="left" alt="Jupyter" width="50px" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
 <img align="left" alt="RStudio" width="50px" src="https://i0.wp.com/static1.squarespace.com/static/51156277e4b0b8b2ffe11c00/t/583ccafcbebafbc5c11fa6ec/1480379239088/RStudio-Ball.png?zoom=1.25&w=578&ssl=1">
-<img align="left" alt="VSCode" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img align="left" alt="VSCode" width="50px" height="50px" src="https://user-images.githubusercontent.com/32801046/149051842-693786f8-dc9b-47a5-84cc-ea23666adc78.png">
+
 
 
 <!--![python](https://user-images.githubusercontent.com/32801046/115215597-83c3b580-a0b8-11eb-9fb4-a4d4d363309f.png)
